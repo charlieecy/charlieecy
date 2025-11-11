@@ -101,11 +101,10 @@ Permite administrar jugadores, entrenadores, convocatorias, estadísticas e hist
 
 ---
 
-## 🤝 Conecta conmigo
+## 🤝 Contacta conmigo
 
 📫 **Email:** carloscy8@gmail.com  
-💼 **LinkedIn:** [www.linkedin.com/in/carlos-cortés](https://www.linkedin.com/in/carlos-cort%C3%A9s)  
-🐙 **GitHub:** [github.com/charlieecy](https://github.com/charlieecy)
+💼 **LinkedIn:** [www.linkedin.com/in/carlos-cortés](https://www.linkedin.com/in/carlos-cort%C3%A9s)
 
 ---
 
