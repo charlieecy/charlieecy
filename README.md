@@ -16,6 +16,7 @@ Me interesa especialmente el desarrollo **backend** y la creación de soluciones
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,6 +24,7 @@ Me interesa especialmente el desarrollo **backend** y la creación de soluciones
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -69,7 +71,7 @@ Me interesa especialmente el desarrollo **backend** y la creación de soluciones
 
 ---
 
-## 🚀 Proyecto Destacado
+## 🚀 Proyectos Destacados
 
 ### 🏃🏻 New Team Manager
 Aplicación de escritorio desarrollada para digitalizar la gestión interna del club deportivo *New Team*.  
@@ -77,6 +79,13 @@ Permite administrar jugadores, entrenadores, convocatorias, estadísticas e hist
 
 **Tecnologías:** Kotlin, JavaFX, Koin, Caffeine, H2, Vaadin, JUnit 5, Jacoco, Gson/Jackson/JAXB, Apache Commons CSV, Bcrypt, Maven/Gradle.  
 🔗 [Repositorio en GitHub](https://github.com/charlieecy/Practica-alineacion-plantilla)
+
+### 🛒 API REST – Sistema de gestión de pedidos
+API REST completa y escalable diseñada para gestionar usuarios, productos, categorías y pedidos dentro de un entorno empresarial.
+Incluye autenticación, autorización, panel de testing integrado, reportes automáticos de cobertura, documentación generada con Dokka y despliegue automatizado mediante Docker Compose.
+
+**Tecnologías**: Java 25, Spring Boot, Gradle 9.1, Docker, JaCoCo, Dokka.
+🔗 [Repositorio en GitHub](https://github.com/charlieecy/TrabajoProgramacionSegundo)
 
 ---
 
